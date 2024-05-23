@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\SumEvenNumbers\bin\Debug\net8.0\SumEvenNumbers.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\SumEvenNumbers\bin\Debug\net8.0\SumEvenNumbers.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\SumEvenNumbers\bin\Debug\net8.0\SumEvenNumbers.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\SumEvenNumbers\bin\Debug\net8.0\SumEvenNumbers.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\SumEvenNumbers\bin\Debug\net8.0\SumEvenNumbers.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\SumEvenNumbers\obj\Debug\net8.0\SumEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\SumEvenNumbers\obj\Debug\net8.0\SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\SumEvenNumbers\obj\Debug\net8.0\SumEvenNumbers.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\SumEvenNumbers\obj\Debug\net8.0\SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\SumEvenNumbers\obj\Debug\net8.0\SumEvenNumbers.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\SumEvenNumbers\obj\Debug\net8.0\refint\SumEvenNumbers.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\SumEvenNumbers\obj\Debug\net8.0\SumEvenNumbers.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\SumEvenNumbers\obj\Debug\net8.0\SumEvenNumbers.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\SumEvenNumbers\obj\Debug\net8.0\ref\SumEvenNumbers.dll
