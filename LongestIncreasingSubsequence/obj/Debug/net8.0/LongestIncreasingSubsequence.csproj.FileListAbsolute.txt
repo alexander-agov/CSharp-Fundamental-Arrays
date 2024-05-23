@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\LongestIncreasingSubsequence\bin\Debug\net8.0\LongestIncreasingSubsequence.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\LongestIncreasingSubsequence\bin\Debug\net8.0\LongestIncreasingSubsequence.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\LongestIncreasingSubsequence\bin\Debug\net8.0\LongestIncreasingSubsequence.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\LongestIncreasingSubsequence\bin\Debug\net8.0\LongestIncreasingSubsequence.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\LongestIncreasingSubsequence\bin\Debug\net8.0\LongestIncreasingSubsequence.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\LongestIncreasingSubsequence\obj\Debug\net8.0\LongestIncreasingSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\LongestIncreasingSubsequence\obj\Debug\net8.0\LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\LongestIncreasingSubsequence\obj\Debug\net8.0\LongestIncreasingSubsequence.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\LongestIncreasingSubsequence\obj\Debug\net8.0\LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\LongestIncreasingSubsequence\obj\Debug\net8.0\LongestIncreasingSubsequence.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\LongestIncreasingSubsequence\obj\Debug\net8.0\refint\LongestIncreasingSubsequence.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\LongestIncreasingSubsequence\obj\Debug\net8.0\LongestIncreasingSubsequence.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\LongestIncreasingSubsequence\obj\Debug\net8.0\LongestIncreasingSubsequence.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\LongestIncreasingSubsequence\obj\Debug\net8.0\ref\LongestIncreasingSubsequence.dll
