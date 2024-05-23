@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\KaminoFactory\bin\Debug\net8.0\KaminoFactory.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\KaminoFactory\bin\Debug\net8.0\KaminoFactory.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\KaminoFactory\bin\Debug\net8.0\KaminoFactory.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\KaminoFactory\bin\Debug\net8.0\KaminoFactory.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\KaminoFactory\bin\Debug\net8.0\KaminoFactory.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\KaminoFactory\obj\Debug\net8.0\KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\KaminoFactory\obj\Debug\net8.0\KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\KaminoFactory\obj\Debug\net8.0\KaminoFactory.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\KaminoFactory\obj\Debug\net8.0\KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\KaminoFactory\obj\Debug\net8.0\KaminoFactory.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\KaminoFactory\obj\Debug\net8.0\refint\KaminoFactory.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\KaminoFactory\obj\Debug\net8.0\KaminoFactory.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\KaminoFactory\obj\Debug\net8.0\KaminoFactory.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\KaminoFactory\obj\Debug\net8.0\ref\KaminoFactory.dll
