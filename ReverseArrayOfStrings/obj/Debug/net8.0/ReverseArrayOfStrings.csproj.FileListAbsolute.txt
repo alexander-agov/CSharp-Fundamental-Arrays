@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ReverseArrayOfStrings\bin\Debug\net8.0\ReverseArrayOfStrings.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ReverseArrayOfStrings\bin\Debug\net8.0\ReverseArrayOfStrings.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ReverseArrayOfStrings\bin\Debug\net8.0\ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ReverseArrayOfStrings\bin\Debug\net8.0\ReverseArrayOfStrings.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ReverseArrayOfStrings\bin\Debug\net8.0\ReverseArrayOfStrings.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ReverseArrayOfStrings\obj\Debug\net8.0\ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ReverseArrayOfStrings\obj\Debug\net8.0\ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ReverseArrayOfStrings\obj\Debug\net8.0\ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ReverseArrayOfStrings\obj\Debug\net8.0\ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ReverseArrayOfStrings\obj\Debug\net8.0\ReverseArrayOfStrings.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ReverseArrayOfStrings\obj\Debug\net8.0\refint\ReverseArrayOfStrings.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ReverseArrayOfStrings\obj\Debug\net8.0\ReverseArrayOfStrings.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ReverseArrayOfStrings\obj\Debug\net8.0\ReverseArrayOfStrings.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ReverseArrayOfStrings\obj\Debug\net8.0\ref\ReverseArrayOfStrings.dll
