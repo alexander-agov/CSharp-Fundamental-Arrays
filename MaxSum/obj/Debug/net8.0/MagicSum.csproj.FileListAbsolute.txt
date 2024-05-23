@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\MaxSum\bin\Debug\net8.0\MagicSum.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\MaxSum\bin\Debug\net8.0\MagicSum.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\MaxSum\bin\Debug\net8.0\MagicSum.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\MaxSum\bin\Debug\net8.0\MagicSum.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\MaxSum\bin\Debug\net8.0\MagicSum.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\MaxSum\obj\Debug\net8.0\MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\MaxSum\obj\Debug\net8.0\MagicSum.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\MaxSum\obj\Debug\net8.0\MagicSum.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\MaxSum\obj\Debug\net8.0\MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\MaxSum\obj\Debug\net8.0\MagicSum.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\MaxSum\obj\Debug\net8.0\refint\MagicSum.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\MaxSum\obj\Debug\net8.0\MagicSum.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\MaxSum\obj\Debug\net8.0\MagicSum.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\MaxSum\obj\Debug\net8.0\ref\MagicSum.dll
