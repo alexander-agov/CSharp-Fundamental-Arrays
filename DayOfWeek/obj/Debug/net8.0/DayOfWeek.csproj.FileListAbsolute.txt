@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\DayOfWeek\bin\Debug\net8.0\DayOfWeek.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\DayOfWeek\bin\Debug\net8.0\DayOfWeek.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\DayOfWeek\bin\Debug\net8.0\DayOfWeek.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\DayOfWeek\bin\Debug\net8.0\DayOfWeek.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\DayOfWeek\bin\Debug\net8.0\DayOfWeek.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\DayOfWeek\obj\Debug\net8.0\DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\DayOfWeek\obj\Debug\net8.0\DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\DayOfWeek\obj\Debug\net8.0\DayOfWeek.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\DayOfWeek\obj\Debug\net8.0\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\DayOfWeek\obj\Debug\net8.0\DayOfWeek.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\DayOfWeek\obj\Debug\net8.0\refint\DayOfWeek.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\DayOfWeek\obj\Debug\net8.0\DayOfWeek.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\DayOfWeek\obj\Debug\net8.0\DayOfWeek.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\DayOfWeek\obj\Debug\net8.0\ref\DayOfWeek.dll
