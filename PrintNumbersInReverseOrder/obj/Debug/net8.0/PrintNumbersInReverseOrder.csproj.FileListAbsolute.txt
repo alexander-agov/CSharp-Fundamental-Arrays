@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\PrintNumbersInReverseOrder\bin\Debug\net8.0\PrintNumbersInReverseOrder.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\PrintNumbersInReverseOrder\bin\Debug\net8.0\PrintNumbersInReverseOrder.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\PrintNumbersInReverseOrder\bin\Debug\net8.0\PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\PrintNumbersInReverseOrder\bin\Debug\net8.0\PrintNumbersInReverseOrder.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\PrintNumbersInReverseOrder\bin\Debug\net8.0\PrintNumbersInReverseOrder.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\PrintNumbersInReverseOrder\obj\Debug\net8.0\PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\PrintNumbersInReverseOrder\obj\Debug\net8.0\PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\PrintNumbersInReverseOrder\obj\Debug\net8.0\PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\PrintNumbersInReverseOrder\obj\Debug\net8.0\PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\PrintNumbersInReverseOrder\obj\Debug\net8.0\PrintNumbersInReverseOrder.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\PrintNumbersInReverseOrder\obj\Debug\net8.0\refint\PrintNumbersInReverseOrder.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\PrintNumbersInReverseOrder\obj\Debug\net8.0\PrintNumbersInReverseOrder.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\PrintNumbersInReverseOrder\obj\Debug\net8.0\PrintNumbersInReverseOrder.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\PrintNumbersInReverseOrder\obj\Debug\net8.0\ref\PrintNumbersInReverseOrder.dll
