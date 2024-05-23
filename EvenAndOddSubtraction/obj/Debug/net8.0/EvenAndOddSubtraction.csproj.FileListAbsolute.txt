@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EvenAndOddSubtraction\obj\Debug\net8.0\refint\EvenAndOddSubtraction.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EvenAndOddSubtraction\obj\Debug\net8.0\ref\EvenAndOddSubtraction.dll
