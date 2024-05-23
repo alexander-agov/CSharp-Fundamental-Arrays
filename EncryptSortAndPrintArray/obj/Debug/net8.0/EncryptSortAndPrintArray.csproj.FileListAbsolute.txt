@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EncryptSortAndPrintArray\bin\Debug\net8.0\EncryptSortAndPrintArray.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EncryptSortAndPrintArray\bin\Debug\net8.0\EncryptSortAndPrintArray.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EncryptSortAndPrintArray\bin\Debug\net8.0\EncryptSortAndPrintArray.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EncryptSortAndPrintArray\bin\Debug\net8.0\EncryptSortAndPrintArray.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EncryptSortAndPrintArray\bin\Debug\net8.0\EncryptSortAndPrintArray.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EncryptSortAndPrintArray\obj\Debug\net8.0\EncryptSortAndPrintArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EncryptSortAndPrintArray\obj\Debug\net8.0\EncryptSortAndPrintArray.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EncryptSortAndPrintArray\obj\Debug\net8.0\EncryptSortAndPrintArray.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EncryptSortAndPrintArray\obj\Debug\net8.0\EncryptSortAndPrintArray.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EncryptSortAndPrintArray\obj\Debug\net8.0\EncryptSortAndPrintArray.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EncryptSortAndPrintArray\obj\Debug\net8.0\refint\EncryptSortAndPrintArray.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EncryptSortAndPrintArray\obj\Debug\net8.0\EncryptSortAndPrintArray.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EncryptSortAndPrintArray\obj\Debug\net8.0\EncryptSortAndPrintArray.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\EncryptSortAndPrintArray\obj\Debug\net8.0\ref\EncryptSortAndPrintArray.dll
