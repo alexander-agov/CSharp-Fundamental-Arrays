@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\FoldAndSum\bin\Debug\net8.0\FoldAndSum.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\FoldAndSum\bin\Debug\net8.0\FoldAndSum.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\FoldAndSum\bin\Debug\net8.0\FoldAndSum.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\FoldAndSum\bin\Debug\net8.0\FoldAndSum.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\FoldAndSum\bin\Debug\net8.0\FoldAndSum.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\FoldAndSum\obj\Debug\net8.0\FoldAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\FoldAndSum\obj\Debug\net8.0\FoldAndSum.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\FoldAndSum\obj\Debug\net8.0\FoldAndSum.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\FoldAndSum\obj\Debug\net8.0\FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\FoldAndSum\obj\Debug\net8.0\FoldAndSum.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\FoldAndSum\obj\Debug\net8.0\refint\FoldAndSum.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\FoldAndSum\obj\Debug\net8.0\FoldAndSum.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\FoldAndSum\obj\Debug\net8.0\FoldAndSum.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\FoldAndSum\obj\Debug\net8.0\ref\FoldAndSum.dll
