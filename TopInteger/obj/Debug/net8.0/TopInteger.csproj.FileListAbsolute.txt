@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\TopInteger\bin\Debug\net8.0\TopInteger.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\TopInteger\bin\Debug\net8.0\TopInteger.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\TopInteger\bin\Debug\net8.0\TopInteger.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\TopInteger\bin\Debug\net8.0\TopInteger.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\TopInteger\bin\Debug\net8.0\TopInteger.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\TopInteger\obj\Debug\net8.0\TopInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\TopInteger\obj\Debug\net8.0\TopInteger.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\TopInteger\obj\Debug\net8.0\TopInteger.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\TopInteger\obj\Debug\net8.0\TopInteger.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\TopInteger\obj\Debug\net8.0\TopInteger.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\TopInteger\obj\Debug\net8.0\refint\TopInteger.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\TopInteger\obj\Debug\net8.0\TopInteger.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\TopInteger\obj\Debug\net8.0\TopInteger.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\TopInteger\obj\Debug\net8.0\ref\TopInteger.dll
