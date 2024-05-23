@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\RecursiveFibonacci\bin\Debug\net8.0\RecursiveFibonacci.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\RecursiveFibonacci\bin\Debug\net8.0\RecursiveFibonacci.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\RecursiveFibonacci\bin\Debug\net8.0\RecursiveFibonacci.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\RecursiveFibonacci\bin\Debug\net8.0\RecursiveFibonacci.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\RecursiveFibonacci\bin\Debug\net8.0\RecursiveFibonacci.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\RecursiveFibonacci\obj\Debug\net8.0\RecursiveFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\RecursiveFibonacci\obj\Debug\net8.0\RecursiveFibonacci.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\RecursiveFibonacci\obj\Debug\net8.0\RecursiveFibonacci.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\RecursiveFibonacci\obj\Debug\net8.0\RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\RecursiveFibonacci\obj\Debug\net8.0\RecursiveFibonacci.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\RecursiveFibonacci\obj\Debug\net8.0\refint\RecursiveFibonacci.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\RecursiveFibonacci\obj\Debug\net8.0\RecursiveFibonacci.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\RecursiveFibonacci\obj\Debug\net8.0\RecursiveFibonacci.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\RecursiveFibonacci\obj\Debug\net8.0\ref\RecursiveFibonacci.dll
