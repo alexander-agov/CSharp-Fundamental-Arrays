@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ZigZagArrays\bin\Debug\net8.0\ZigZagArrays.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ZigZagArrays\bin\Debug\net8.0\ZigZagArrays.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ZigZagArrays\bin\Debug\net8.0\ZigZagArrays.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ZigZagArrays\bin\Debug\net8.0\ZigZagArrays.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ZigZagArrays\bin\Debug\net8.0\ZigZagArrays.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ZigZagArrays\obj\Debug\net8.0\ZigZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ZigZagArrays\obj\Debug\net8.0\ZigZagArrays.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ZigZagArrays\obj\Debug\net8.0\ZigZagArrays.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ZigZagArrays\obj\Debug\net8.0\ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ZigZagArrays\obj\Debug\net8.0\ZigZagArrays.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ZigZagArrays\obj\Debug\net8.0\refint\ZigZagArrays.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ZigZagArrays\obj\Debug\net8.0\ZigZagArrays.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ZigZagArrays\obj\Debug\net8.0\ZigZagArrays.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Arrays\ZigZagArrays\obj\Debug\net8.0\ref\ZigZagArrays.dll
